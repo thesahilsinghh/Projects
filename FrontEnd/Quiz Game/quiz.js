@@ -95,6 +95,7 @@ const quesJSON = [
           questionEl.textContent='Quiz Finished';
           optionEl.textContent='';
         }else{
+          optionEl.textContent='';
           curr++;
           renderQues();
         }
