@@ -154,6 +154,12 @@ document.getElementById('postForm').addEventListener('submit',(event) => {
 });
 
   
+  // Get form input values
+
+  // Check if the image input is not empty
+  
+
+
 
 // Initial rendering                      
 renderPosts();
