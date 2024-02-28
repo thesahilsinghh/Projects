@@ -115,13 +115,7 @@ function postImage(obj){
   postsData.push(obj);
   renderPosts();
 }
-// Add Event listeners to listen to the submit event of the form.
 
-
-//
-/*
-this is my vnjefivjeflk n  ejfo;b e     
-*/
 
 
 
@@ -154,11 +148,7 @@ document.getElementById('postForm').addEventListener('submit',(event) => {
 });
 
   
-  // Get form input values
-
-  // Check if the image input is not empty
-  
-
+ 
 
 
 // Initial rendering                      
